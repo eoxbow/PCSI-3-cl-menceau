@@ -95,5 +95,3 @@ plt.ylabel('theta(rad)')
 plt.title('Pendule simple')
 plt.legend()
 plt.show()
-
-
